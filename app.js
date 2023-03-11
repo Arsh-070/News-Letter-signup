@@ -71,6 +71,3 @@ app.listen(process.env.PORT || 3000 ,()=>{
 });
 
 
-// 24366da6df585df1693b850d4135b2c8-us21 api key
-
-// 72d8c58f55 ID
